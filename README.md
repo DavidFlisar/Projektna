@@ -1,5 +1,6 @@
 # create-svelte
 
+This project was created by developedbyed and modified by me a little bit for a school project.
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
